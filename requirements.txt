@@ -1,21 +1,9 @@
-# Core ML & Data
-tensorflow
-scikit-learn
-pandas
+torch>=1.13.1
+torchvision>=0.14.1
 numpy
-
-# Audio & Vision
-librosa
-opencv-python
-
-# MLOps
+scikit-learn
+matplotlib
+seaborn
+Pillow
+mlflow
 dvc
-
-# API & Server
-fastapi
-uvicorn[standard]
-python-multipart
-
-# Frontend & Testing
-streamlit
-requests
